@@ -7,4 +7,4 @@ in a random manner (didn't involve any mathematical optimisation(trial and error
 So the flow of code is as follows:- 
 1) Generating 100 uniquely located cities (coordinated)
 2) Making functions that required for reproduction and evolution of code
-3) plotting the results ( average fitness, best fitness, final map) (here i have run it for very less generations(5) hence the final path is not that optimised)
+3) plotting the results ( average fitness, best fitness, final map) (here i have run it for very less generations(50) hence the final path is not that optimised)
