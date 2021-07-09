@@ -1,8 +1,8 @@
 # Travelling-Salesman
-I have solved travelling salesman using genetic algorithm (permutation encoding). 
+I have solved travelling salesman problem using genetic algorithm (permutation encoding). 
 However, I am just a beginner so it isn't a neat code. 
-Also, I have taken things like no. of generations, children produced, chromosomes eliminated 
-in a random manner (didn't involve any mathematical optimisation(trial and error)).)
+Also, I have taken things like no. of generations, no. of children produced, no. of chromosomes eliminated etc
+in a random manner (didn't involve any mathematical optimisation (just trial and error)).)
 
 So the flow of code is as follows:- 
 1) Generating 100 uniquely located cities. (coordinates)
